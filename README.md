@@ -14,7 +14,7 @@ To write a program to predict the profit of a city using the linear regression m
    4. Plot the Cost function using Gradient Descent and predict the value. 
 
 ## Program:
-```
+```python
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: Vasanthamukilan M
@@ -50,14 +50,16 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-   i.) Dataset:
-   
-   ![image](https://github.com/shoaib3136/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/117919362/40c5c830-3e53-44ff-aecc-66f36c9a7087)
+   ### df.head 
+   ![Screenshot 2024-03-12 142356](https://github.com/Vasanthamukilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559694/e38b0a62-fc81-491f-bc7f-8b5d365653b6)
+   ### Dataset
+   ![Screenshot 2024-03-12 142621](https://github.com/Vasanthamukilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559694/66365e91-2dac-4a46-b368-acc3858d40af)
 
-   ii.) Predicted value:
-   
-   ![image](https://github.com/shoaib3136/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/117919362/9e64546a-9fb0-495f-9678-cdd6cf6f9cc5)
+   ![Screenshot 2024-03-12 142711](https://github.com/Vasanthamukilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559694/abb8fa5c-c5eb-4abf-86d2-0d17f6b3f8f3)
 
+
+   ### Predicted value:
+  ![Screenshot 2024-03-12 142725](https://github.com/Vasanthamukilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559694/b08ee3e6-9df7-4cd4-bdd2-aa31509987f6)
 
 
 
